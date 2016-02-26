@@ -83,6 +83,8 @@ own.
 	see your changes. If you use Docker Machine, the `docker-machine ip
 	<machine-name>` command gives you the address of your server.
 
+	Alternatively, use a service such as [qem.io](http://qem.io) to see the generated docs for each open pull-request.
+
 6.  Check your writing for style and mechanical errors.
 
 	Use our [documentation style
